@@ -19,5 +19,7 @@ $ git clone https://github.com/reggiestain/gallery-image-slider
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
